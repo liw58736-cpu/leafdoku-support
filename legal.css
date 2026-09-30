@@ -1,0 +1,14 @@
+:root { color-scheme:light; font-family:'Microsoft YaHei UI','PingFang SC','Segoe UI',sans-serif; color:#6b492e; background:#faf7f2; }
+* { box-sizing:border-box; }
+body { max-width:760px; margin:auto; padding:28px 22px 55px; }
+header { display:flex; justify-content:space-between; gap:16px; align-items:center; margin-bottom:24px; }
+header a { text-decoration:none; font-weight:800; }
+select { padding:9px; border:1px solid #decfb9; border-radius:10px; background:#fffefa; color:#6b492e; }
+nav { display:flex; flex-wrap:wrap; gap:15px; padding:15px 0; border-bottom:1px solid #e2d4bd; }
+a { color:#527782; text-underline-offset:3px; }
+h2 { margin:29px 0 8px; font-size:28px; }
+h3 { margin:24px 0 7px; font-size:17px; }
+p { font-size:14px; line-height:1.95; overflow-wrap:anywhere; }
+.policy-date,footer { font-size:12px; color:#a08a73; }
+footer { border-top:1px solid #e2d4bd; margin-top:38px; padding-top:18px; }
+[hidden] { display:none!important; }
